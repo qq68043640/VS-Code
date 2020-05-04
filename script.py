@@ -17,4 +17,4 @@ print(sys.version)
 # print(r.status_code)
 # name=input("You names? ")
 
-# print("Hello,",name)
+print("Hello,",name)
